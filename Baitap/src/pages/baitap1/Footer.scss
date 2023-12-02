@@ -1,0 +1,23 @@
+.footer{
+    width: 100%;
+    background-color: rgb(120, 48, 100);
+    color: white;
+    
+    p {
+        font-size: 18px;
+        text-align: center;
+        margin-top: 80px;
+    }
+    .navbar{
+        
+        display: flex;
+        justify-content: space-evenly;
+        // gap :80px
+        a {
+            color: white;
+        }
+        .icon{
+            font-size: 30px;
+        }
+    }
+}
